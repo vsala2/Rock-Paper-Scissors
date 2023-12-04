@@ -7,9 +7,9 @@ The game is implemented using HTML, CSS, and JavaScript, providing an interactiv
 Play the game here: [Rock, Paper, Scissors Game](https://rockpaperscissors27.netlify.app/)
 
 ## Features
-+ User vs. Computer: Test your luck and strategy against the computer in a game of Rock, Paper, Scissors.
-+ Auto Play Mode: Sit back and watch the computer play against itself in an entertaining auto play mode.
-+ Reset Button: Easily reset the game to start a new round and clear the current score.
++ **User vs. Computer:** Test your luck and strategy against the computer in a game of Rock, Paper, Scissors.
++ **Auto Play Mode:** Sit back and watch the computer play against itself in an entertaining auto play mode.
++ **Reset Button:** Easily reset the game to start a new round and clear the current score.
 
 ## How to Play
 1. Open the game in your web browser.
@@ -23,7 +23,7 @@ Play the game here: [Rock, Paper, Scissors Game](https://rockpaperscissors27.net
 + JavaScript
 
 ## Deployment
-The project is deployed using Netlify. Any changes pushed to the main branch will automatically trigger a new deployment.
+The project is deployed using **Netlify**. Any changes pushed to the main branch will automatically trigger a new deployment.
 
 Visit the live project: [Rock, Paper, Scissors Game](https://rockpaperscissors27.netlify.app/)
 
